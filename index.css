@@ -1,0 +1,71 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image:url("https://img.freepik.com/free-vector/elegant-white-background-with-shiny-lines_1017-17580.jpg?w=1060&t=st=1687884658~exp=1687885258~hmac=5ac94f3836712ed7ebd55a8f1396d093644157ed33d3af726b0ccd29bad652c0") ;
+    background-size:cover;
+    opacity:0.9;
+    font-family:'Times New Roman', Times, serif; 
+    margin-left:5pt;
+    max-width:500px;
+}
+h1{
+    color:blue;
+    text-align: center;
+    font-weight:100;
+    text-shadow:1px 1px;
+}
+img {
+  max-width: 100%;
+  height:50%;
+}
+p{
+    color:blue;
+    font-weight:100%; 
+    font-size:20px;
+    
+}
+a{
+  color: royalblue;
+  align-content:center; 
+  
+  text-align:center; 
+}
+a:visited{
+    color:palevioletred;
+}
+button{
+    background-color:royalblue;
+    color:beige;
+    border:none; 
+    padding:2pt;  
+    border-radius:1pt; 
+     margin-left:80pt;
+     margin-top:5pt;
+}
+ul{
+    margin-top:20px;
+    font-weight:bold; 
+     list-style:none;
+     padding-left:0;
+}
+#btn-ele10
+{
+    text-align:center;
+    margin-left:80pt; 
+    color:white;
+    background-color:green; 
+    
+}
+input{
+    width:75%;
+    padding:10px;
+    border-color:blue;
+    box-sizing:border-box;
+    color:blue;
+    
+    
+}
+#pt-ele{
+    color:red;
+    font-size:20px; 
+}
